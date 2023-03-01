@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Espressif")(type "KiCad")(uri "C:/Users/admin/OneDrive/Desktop/KeyCAD/Libraries/kicad-libraries-main/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "I2CSockets")(type "KiCad")(uri "${KIPRJMOD}/I2CSockets.kicad_sym")(options "")(descr ""))
+)
