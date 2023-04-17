@@ -1,4 +1,4 @@
-22150644491371544
+22157358096899085
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54060,6 +54060,34 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+Custom
+Custom Socket I2C
+
+
+0
+12
+12
+Custom
+Custom connector
+
+
+0
+0
+0
+Custom
+Siemens W11 Relay
+
+
+0
+6
+6
+Custom
+TE_Micro-MaTch_215079-4_2x02_P1.27mm_Vertical
+TE-Connectivity Micro-MaTch female-on-board top-entry thru-hole 4 pin connector, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F215079%7FY1%7Fpdf%7FEnglish%7FENG_CD_215079_Y1.pdf%7F215079-4
+connector TE-Connectivity Micro-MaTch Vertical 215079-4 7-215079-4
+0
+4
+4
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
