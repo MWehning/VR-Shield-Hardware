@@ -3,7 +3,7 @@ https://www.openhardware.io/view/33050
 
 
 
-Kicad files required to replicate the VR-Shield PCB. 
+## Kicad files required to replicate the VR-Shield PCB. 
 
 
 
@@ -29,4 +29,4 @@ Required components:
 
 
 
-Build instructions can be found at /bom/ibom.html
+## Build instructions can be found at /bom/ibom.html
