@@ -7,7 +7,7 @@ https://www.openhardware.io/view/33050
 
 
 
-Required components:
+# Required components:
 
 -SMD-Resistors (0805)
 
